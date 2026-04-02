@@ -6,7 +6,7 @@ public class Main {
 		int age = 20;
 		String name = "何佳";
 		
-		System.out.println("私は" + name + "です。年齢は" + age + "さいです。");
+		System.out.println("私は" + name + "です。年齢は" + age + "歳です。");
 		// TODO 自動生成されたメソッド・スタブ
 
 	}
